@@ -1,0 +1,2 @@
+--Id;NomeCarta;ATQ;VEL;DEF;Elemento
+1;AlexTheMage;86;76;95;Fogo
