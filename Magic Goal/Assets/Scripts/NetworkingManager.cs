@@ -51,7 +51,7 @@ public class NetworkingManager : MonoBehaviour {
 	private string getINIDefinition(string INIDefinition){
 		int counter = 0;
 		string line;
-		System.IO.StreamReader file = new System.IO.StreamReader("Assets/Conexao.ini");
+		System.IO.StreamReader file = new System.IO.StreamReader("Assets/Client.ini");
 		string Definition;
 		char[] separators = {'='};
 		int j = 0, k = 1;
